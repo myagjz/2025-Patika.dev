@@ -1,3 +1,6 @@
+//2025 Patika.dev Web3 Stajı
+//Mustafa YAĞIZ
+
 actor Calculator {
   // Toplama işlemi
   public func add(a: Int, b: Int): async Int {
